@@ -1,0 +1,9 @@
+---
+slug: :test
+depends:
+  mikutter: 3.6.0
+  plugin:
+version: '0.0.2'
+author: moguno
+name: test
+description: test
